@@ -1,0 +1,131 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(
+        180deg,
+        #ffffff 0%,
+        #f3f8f7 49.91%,
+        #fff9f5 94.19%
+    );
+    font-family: Lato, sans-serif;
+    overflow-x: hidden;
+    color: #54575a;
+}
+
+.brand-img {
+    position: absolute;
+    width: 193px;
+    height: 47.64px;
+    left: 221px;
+    top: 50.25px;
+}
+
+.wrapper {
+    position: relative;
+    width: 1440px;
+    margin: auto;
+    height: 1379px;
+}
+
+.title {
+    position: absolute;
+    width: 458px;
+    height: 135px;
+    left: 221px;
+    top: 236px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 6.4rem;
+    line-height: 6.7rem;
+}
+
+.text {
+    position: absolute;
+    width: 394px;
+    height: 96px;
+    left: 221px;
+    top: 403px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2rem;
+    line-height: 3.2rem;
+}
+
+.app-store-btn {
+    position: absolute;
+
+    left: 221px;
+    top: 531px;
+}
+
+.app-store-btn img {
+    width: 138.44px;
+    height: 46.28px;
+}
+
+.google-play-btn {
+    position: absolute;
+    left: 381.81px;
+    top: 531px;
+}
+
+.google-play-btn img {
+    width: 156.19px;
+    height: 46.28px;
+}
+
+.main-img-container {
+    position: absolute;
+    width: 535.72px;
+    height: 309.27px;
+    left: 683.28px;
+    top: 229.73px;
+}
+
+.main-img-container img {
+    height: 411.15px;
+}
+
+.cart-img {
+    position: absolute;
+    height: 222px;
+    left: 221px;
+    right: 995px;
+    top: 1157px;
+}
+
+.home-img {
+    position: absolute;
+    height: 476px;
+    left: 995px;
+    right: 221px;
+    top: 908px;
+}
+
+.orders-img {
+    position: absolute;
+    height: 476px;
+    left: 479px;
+    right: 737px;
+    top: 913px;
+}
+
+.product-img {
+    position: absolute;
+    height: 222px;
+    left: 737px;
+    right: 479px;
+    top: 1157px;
+}
+
+.profile-img {
+    position: absolute;
+    height: 444px;
+    right: 479px;
+    left: 737px;
+    top: 686px;
+}
